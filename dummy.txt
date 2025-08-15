@@ -1,1 +1,13 @@
 My Name is Mouneesh.
+
+things need to know
+clone - working branch
+commit - save changes to local branch
+push - updating saved local branch changes to remote branch
+pull - updating remote branch changes to local branch
+fetch?
+revert - revert the commit (saved changes)
+merge commit?
+rebase?
+delete branch - delete in local, delete in both local and remote
+
